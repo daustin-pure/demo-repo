@@ -8,3 +8,7 @@ More text!
 even more text
 
 ### Another Layer
+
+# Local Development
+
+1. open index.html in your browser
